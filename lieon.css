@@ -1,0 +1,327 @@
+* {
+  font-family: sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #171711;
+}
+
+.lieon {
+  top: -50px;
+  position: relative;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 45px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  display: flex;
+  margin: 40px;
+}
+
+span {
+  color: tomato;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  color: #121212;
+}
+
+.btn {
+  font-size: 15px;
+  font-weight: bold;
+  background-color: tomato;
+  border: transparent;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 75px;
+  margin-top: 7px;
+}
+
+.navber ul {
+  display: flex;
+  gap: 20px;
+}
+
+ul li {
+  display: inline;
+  padding: 10px;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.cnt {
+  color: tomato;
+}
+
+.navber ul li a:hover {
+  color: tomato;
+  transition: 0.5s;
+}
+
+.ot h1 {
+  color: white;
+  font-size: 50px;
+  padding-left: 25%;
+}
+
+.at p {
+  color: #565656;
+  font-weight: 600;
+  padding-left: 50%;
+  line-height: 30px;
+  padding-top: 2%;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  gap: 6%;
+  margin-top: 5%;
+}
+
+h6 {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.number {
+  border: 2px solid transparent;
+  border-radius: 12px;
+  background-color: #121212;
+  padding: 20px;
+  padding-right: 5%;
+}
+
+.num {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+.mail {
+  border: 2px solid transparent;
+  border-radius: 12px;
+  background-color: #121212;
+  padding: 20px;
+  padding-right: 5%;
+}
+
+.address {
+  border: 2px solid transparent;
+  border-radius: 12px;
+  background-color: #121212;
+  padding: 20px;
+  padding-right: 5%;
+}
+
+.icon2 a {
+  color: white;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+.icon2 {
+  background-color: #121212;
+}
+
+.follow {
+  border: 2px solid transparent;
+  border-radius: 12px;
+  background-color: #121212;
+  padding: 20px;
+  padding-right: 7%;
+}
+
+.saw-hello {
+  font-size: 105px;
+  text-align: center;
+  margin-top: 100px;
+  color: white;
+}
+
+.from {
+  background-color: #121212;
+}
+
+.mahin {
+  background: #121212;
+  padding: 35px 0;
+  margin: 100px 0;
+  margin-bottom: 12%;
+}
+.container {
+  background-color: #171711;
+}
+
+.tol {
+  margin: 120px auto;
+  background-color: #171711;
+  width: 80%;
+  padding: 100px 0;
+  border: 5px solid transparent;
+  border-radius: 20px;
+}
+
+.teo {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  color: #ccc;
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.fast-in {
+  padding-right: 22px;
+}
+
+input[type="text"] {
+  width: 173px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input.tex {
+  width: 525px;
+  padding: 20px;
+  background: #121212;
+  border: transparent;
+}
+
+.msg {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.msg input.net {
+  padding: 20px;
+  width: 81%;
+  padding-bottom: 143px;
+  background: #121212;
+  border: transparent;
+}
+
+form {
+  margin-top: 50px;
+}
+
+.quotes {
+  display: flex;
+  margin: 0 auto;
+  border: transparent;
+  padding: 17px 30px;
+  border-radius: 5px;
+  background: #ff9676;
+
+  font-size: 19px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #121212;
+}
+
+.frequently {
+  color: tomato;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.comon h1 {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.rat {
+  border-top: 1px solid #ccc;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.rat h5 {
+  color: #ccc;
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.peragraf {
+  color: #565656;
+  margin-top: 15px;
+  font-weight: 600;
+}
+
+.develop {
+  border-top: 1px solid #ccc;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+h5 {
+  color: #ccc;
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.line {
+  border-top: 1px solid #ccc;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-block-end: 100px;
+}
+
+.end-section {
+  margin: 0 auto;
+  background-color: white;
+  width: 58%;
+  padding: 37px 45px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bik {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+}
